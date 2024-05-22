@@ -22,7 +22,7 @@ pyparsing==3.0.9; python_full_version >= "3.6.8" and python_version >= "3.6"
 pytz==2022.2.1; python_version >= "3.6"
 pyyaml==6.0; python_version >= "3.7"
 recommonmark==0.6.0
-requests==2.28.1; python_version >= "3.7" and python_version < "4" and (python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.7")
+requests==2.32.0; python_version >= "3.7" and python_version < "4" and (python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.7")
 snowballstemmer==2.2.0; python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.7"
 sphinx-markdown-tables==0.0.12
 sphinx-rtd-theme==1.0.0; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.4.0")
